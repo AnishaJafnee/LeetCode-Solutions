@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnishaJafnee/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/AnishaJafnee/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/AnishaJafnee/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [2413-smallest-even-multiple](https://github.com/AnishaJafnee/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/AnishaJafnee/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 ## Recursion
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnishaJafnee/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/AnishaJafnee/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/AnishaJafnee/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## Array
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AnishaJafnee/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/AnishaJafnee/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## Number Theory
 |  |
 | ------- |

@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnishaJafnee/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/AnishaJafnee/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [2413-smallest-even-multiple](https://github.com/AnishaJafnee/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 ## Recursion
 |  |
 | ------- |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AnishaJafnee/LeetCode-Solutions/tree/master/0231-power-of-two) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/AnishaJafnee/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->

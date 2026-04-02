@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/AnishaJafnee/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [2413-smallest-even-multiple](https://github.com/AnishaJafnee/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/AnishaJafnee/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
+| [2652-sum-multiples](https://github.com/AnishaJafnee/LeetCode-Solutions/tree/master/2652-sum-multiples) |
 ## Recursion
 |  |
 | ------- |

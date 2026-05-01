@@ -11,13 +11,13 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        vector<ListNode *>ans;
-        ListNode *i=head;
-        while(i!=NULL)
+        
+        ListNode *slow=head, *fast=head;
+        while(fast != NULL && fast->next != NULL)
         {
-            ans.push_back(i);
-            i=i->next;
+            slow=slow->next;
+            fast=fast->next->next;
         }
-        return ans[ans.size()/2];
+        return slow;
     }
 };
